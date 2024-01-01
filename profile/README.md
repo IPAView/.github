@@ -3,4 +3,4 @@
 - [Submit a feedback](https://github.com/IPAView/IPAView/issues)
 - [Give this project a star](https://github.com/IPAView/IPAView)
 
-![screenshot](screenshot.jpg)
+![screenshot](https://ipaview.github.io/screenshot.jpg)
